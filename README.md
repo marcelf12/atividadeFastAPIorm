@@ -1,8 +1,8 @@
-# 🚀 API de Usuários e Perfis (FastAPI + ORM SQLAlchemy)
+# API de Usuários e Perfis (FastAPI + ORM SQLAlchemy)
 
 Este projeto foi desenvolvido como parte da atividade prática da disciplina de Desenvolvimento de API Backend. O objetivo central é demonstrar o uso do ORM **SQLAlchemy** para gerenciar um banco de dados relacional SQLite, focando em mapeamento de entidades e relacionamentos.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Linguagem:** Python 3.13
 - **Framework:** FastAPI
 - **ORM:** SQLAlchemy
@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte da atividade prática da disciplina de 
 - [x] **Integridade de Dados:** Validação para impedir o cadastro de e-mails duplicados.
 - [x] **Mapeamento de Relacionamento:** A listagem de usuários (GET) retorna automaticamente os dados do perfil associado através do ORM.
 
-## 🚀 Como Executar e Testar o Projeto
+## Como Executar e Testar o Projeto
 
 Siga os passos abaixo no seu terminal para rodar a aplicação localmente:
 
