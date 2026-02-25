@@ -1,0 +1,15 @@
+# Ambiente Virtual
+venv/
+env/
+ENV/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Banco de Dados Local (Não deve ir para o GitHub)
+*.db
+*.sqlite3
+
+# Arquivos do Sistema Mac
+.DS_Store
